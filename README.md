@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=200&section=header&text=Amrit%20Raj&fontSize=45&fontColor=ffffff&desc=Software%20Test%20Engineer&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:1e3c72,100:2a5298&height=200&section=header&text=Amrit%20Raj&fontSize=46&fontColor=ffffff&desc=Senior%20QA%20Engineer%20%7C%20SDET&descSize=20)
+
 
 ![QA](https://img.shields.io/badge/Focus-Test%20Automation-blue)
 ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-success)
