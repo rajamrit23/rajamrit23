@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amrit%20Raj&desc=QA%20%7C%20Test%20Automation%20Engineer&fontSize=48&fontColor=ffffff&descSize=22&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Amrit%20Raj&fontSize=40&fontColor=ffffff&desc=QA%20%7C%20Test%20Automation%20Engineer&descSize=20)
+
 
 
 
