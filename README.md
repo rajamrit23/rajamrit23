@@ -1,3 +1,11 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Amrit%20Raj&fontSize=40&fontColor=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajamrit23&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajamrit23&layout=compact&theme=tokyonight)
+![QA](https://img.shields.io/badge/Focus-Test%20Automation-blue)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-success)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amrit%20Raj-blue?logo=linkedin)](https://linkedin.com/in/rajamrit23/)
+
+
 # 💫 About Me:
 Building and improving test automation frameworks using Playwright and Selenium, with a focus on reliable end to end testing for web applications.<br>Open source testing projects, automation frameworks, and tools that improve test coverage, stability, and CI/CD pipelines.<br>Advanced Playwright patterns, test optimization strategies, and best practices for scalable automation in real world projects.<br>Advanced Playwright features, API automation, and integrating automated tests with CI/CD workflows.<br>Manual testing, test automation basics, Selenium, Playwright, TestNG, and writing effective test cases<br>I enjoy finding bugs more than writing features, and I treat every failing test as a small puzzle to solve.
 
