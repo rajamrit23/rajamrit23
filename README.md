@@ -1,5 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Amrit%20Raj&fontSize=40&fontColor=ffffff)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajamrit23&show_icons=true&theme=tokyonight)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=200&section=header&text=Amrit%20Raj&fontSize=45&fontColor=ffffff&desc=Software%20Test%20Engineer&descSize=20)
+
 ![QA](https://img.shields.io/badge/Focus-Test%20Automation-blue)
 ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-success)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amrit%20Raj-blue?logo=linkedin)](https://linkedin.com/in/rajamrit23/)
